@@ -1,0 +1,36 @@
+.header{
+
+    color:white;
+
+    background-color: skyblue;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_960_720.png);
+}
+.intro{
+    color:white;
+    background-color: skyblue;
+    background-image: url(https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105_960_720.png);
+}
+.panda{
+    border:solid;
+    border-width: 5px;
+    border-radius: 15px;
+    width: 350px;
+}
+.bear{
+    border:solid;
+    border-width: 5px;
+    border-radius: 15px;
+    width: 350px;
+}
+.camel{
+    border:solid;
+    border-width: 5px;
+    border-radius: 15px;
+    width: 350px;
+}
+.flex{
+    display:flex;
+    justify-content: space-around;
+}
